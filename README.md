@@ -15,7 +15,7 @@
 
 <p align="center"> 
   <kbd>
-    <a href="https://susannamorin.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://susannamorin.github.io" target="_blank"><img src="examples/preview_big.gif">
   </a>
   </kbd>
 </p>
